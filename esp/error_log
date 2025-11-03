@@ -1,0 +1,42 @@
+[03-Nov-2025 01:22:20 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 01:33:29 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 01:39:34 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 01:42:07 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 01:44:12 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 01:44:12 UTC] PHP Warning:  Undefined variable $texto in /home4/ubvmdgdv/public_html/popup.php on line 19
+[03-Nov-2025 01:44:12 UTC] PHP Warning:  Undefined variable $texto_cerrar in /home4/ubvmdgdv/public_html/popup.php on line 20
+[03-Nov-2025 01:47:20 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 01:48:40 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 02:01:26 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 02:07:25 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 03:08:48 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 03:08:48 UTC] PHP Warning:  Undefined array key "idioma" in /home4/ubvmdgdv/public_html/encabezado.php on line 18
+[03-Nov-2025 03:08:48 UTC] PHP Warning:  Undefined variable $texto in /home4/ubvmdgdv/public_html/popup.php on line 9
+[03-Nov-2025 03:08:48 UTC] PHP Warning:  Undefined variable $texto_cerrar in /home4/ubvmdgdv/public_html/popup.php on line 11
+[03-Nov-2025 05:11:44 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 05:34:46 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 05:34:46 UTC] PHP Warning:  Undefined array key "idioma" in /home4/ubvmdgdv/public_html/encabezado.php on line 18
+[03-Nov-2025 06:08:52 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 06:08:52 UTC] PHP Warning:  Undefined array key "idioma" in /home4/ubvmdgdv/public_html/encabezado.php on line 18
+[03-Nov-2025 06:59:26 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 06:59:26 UTC] PHP Warning:  Undefined array key "idioma" in /home4/ubvmdgdv/public_html/encabezado.php on line 18
+[03-Nov-2025 07:10:47 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 07:10:47 UTC] PHP Warning:  Undefined array key "idioma" in /home4/ubvmdgdv/public_html/encabezado.php on line 18
+[03-Nov-2025 08:40:46 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 08:40:51 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 08:40:51 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 08:41:21 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 08:41:21 UTC] PHP Warning:  Undefined array key "idioma" in /home4/ubvmdgdv/public_html/encabezado.php on line 18
+[03-Nov-2025 08:41:21 UTC] PHP Warning:  Undefined array key "room" in /home4/ubvmdgdv/public_html/esp/rooms.php on line 27
+[03-Nov-2025 08:41:26 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 08:41:26 UTC] PHP Warning:  Undefined array key "idioma" in /home4/ubvmdgdv/public_html/encabezado.php on line 18
+[03-Nov-2025 08:41:26 UTC] PHP Warning:  Undefined array key "room" in /home4/ubvmdgdv/public_html/esp/rooms.php on line 27
+[03-Nov-2025 08:41:27 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 08:41:27 UTC] PHP Warning:  Undefined array key "idioma" in /home4/ubvmdgdv/public_html/encabezado.php on line 18
+[03-Nov-2025 08:41:27 UTC] PHP Warning:  Undefined array key "room" in /home4/ubvmdgdv/public_html/esp/rooms.php on line 27
+[03-Nov-2025 08:41:27 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 08:41:27 UTC] PHP Warning:  Undefined array key "idioma" in /home4/ubvmdgdv/public_html/encabezado.php on line 18
+[03-Nov-2025 08:41:27 UTC] PHP Warning:  Undefined array key "room" in /home4/ubvmdgdv/public_html/esp/rooms.php on line 27
+[03-Nov-2025 14:49:42 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 14:49:42 UTC] PHP Warning:  Undefined variable $texto in /home4/ubvmdgdv/public_html/popup.php on line 9
+[03-Nov-2025 14:49:42 UTC] PHP Warning:  Undefined variable $texto_cerrar in /home4/ubvmdgdv/public_html/popup.php on line 11
