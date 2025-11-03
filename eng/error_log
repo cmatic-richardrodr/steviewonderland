@@ -1,0 +1,32 @@
+[03-Nov-2025 04:59:03 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 04:59:03 UTC] PHP Warning:  include(redes_sociales.php): Failed to open stream: No such file or directory in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
+[03-Nov-2025 04:59:03 UTC] PHP Warning:  include(): Failed opening 'redes_sociales.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
+[03-Nov-2025 05:37:55 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 05:37:55 UTC] PHP Warning:  Undefined array key "idioma" in /home4/ubvmdgdv/public_html/encabezado.php on line 18
+[03-Nov-2025 05:37:55 UTC] PHP Warning:  include(redes_sociales.php): Failed to open stream: No such file or directory in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
+[03-Nov-2025 05:37:55 UTC] PHP Warning:  include(): Failed opening 'redes_sociales.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
+[03-Nov-2025 05:50:01 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 05:50:01 UTC] PHP Warning:  Undefined array key "idioma" in /home4/ubvmdgdv/public_html/encabezado.php on line 18
+[03-Nov-2025 05:50:01 UTC] PHP Warning:  Undefined array key "room" in /home4/ubvmdgdv/public_html/eng/rooms.php on line 29
+[03-Nov-2025 05:50:01 UTC] PHP Warning:  include(redes_sociales.php): Failed to open stream: No such file or directory in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
+[03-Nov-2025 05:50:01 UTC] PHP Warning:  include(): Failed opening 'redes_sociales.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
+[03-Nov-2025 05:59:17 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 05:59:17 UTC] PHP Warning:  Undefined array key "idioma" in /home4/ubvmdgdv/public_html/encabezado.php on line 18
+[03-Nov-2025 05:59:17 UTC] PHP Warning:  include(redes_sociales.php): Failed to open stream: No such file or directory in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
+[03-Nov-2025 05:59:17 UTC] PHP Warning:  include(): Failed opening 'redes_sociales.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
+[03-Nov-2025 06:27:34 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 06:27:34 UTC] PHP Warning:  include(redes_sociales.php): Failed to open stream: No such file or directory in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
+[03-Nov-2025 06:27:34 UTC] PHP Warning:  include(): Failed opening 'redes_sociales.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
+[03-Nov-2025 06:29:52 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 06:29:52 UTC] PHP Warning:  Undefined array key "idioma" in /home4/ubvmdgdv/public_html/encabezado.php on line 18
+[03-Nov-2025 06:29:52 UTC] PHP Warning:  include(redes_sociales.php): Failed to open stream: No such file or directory in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
+[03-Nov-2025 06:29:52 UTC] PHP Warning:  include(): Failed opening 'redes_sociales.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
+[03-Nov-2025 06:41:11 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 06:41:11 UTC] PHP Warning:  Undefined array key "idioma" in /home4/ubvmdgdv/public_html/encabezado.php on line 18
+[03-Nov-2025 06:41:11 UTC] PHP Warning:  include(redes_sociales.php): Failed to open stream: No such file or directory in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
+[03-Nov-2025 06:41:11 UTC] PHP Warning:  include(): Failed opening 'redes_sociales.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
+[03-Nov-2025 06:50:51 UTC] PHP Warning:  Undefined variable $pie in /home4/ubvmdgdv/public_html/estilo.php on line 3
+[03-Nov-2025 06:50:51 UTC] PHP Warning:  Undefined variable $texto in /home4/ubvmdgdv/public_html/popup.php on line 19
+[03-Nov-2025 06:50:51 UTC] PHP Warning:  Undefined variable $texto_cerrar in /home4/ubvmdgdv/public_html/popup.php on line 20
+[03-Nov-2025 06:50:51 UTC] PHP Warning:  include(redes_sociales.php): Failed to open stream: No such file or directory in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
+[03-Nov-2025 06:50:51 UTC] PHP Warning:  include(): Failed opening 'redes_sociales.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home4/ubvmdgdv/public_html/eng/pie_pagina.php on line 54
